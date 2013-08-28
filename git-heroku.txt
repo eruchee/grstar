@@ -1,0 +1,27 @@
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/eruchee/grstar.git
+git push -u origin master
+
+git remote add github https://github.com/eruchee/grstar.git
+
+git push -u github master
+
+
+
+
+リモートのブランチを削除する
+D:\play\grstar\public>git push github :master
+Username for 'https://github.com': t.nonoda@gmail.com
+Password for 'https://t.nonoda@gmail.com@github.com':
+To https://github.com/eruchee/grstar.git
+ - [deleted]         master
+
+:って…。
+
+url.cn/DFB
+
+http://url.cn/G6yHCk

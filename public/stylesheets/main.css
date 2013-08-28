@@ -1,0 +1,16 @@
+a{text-decoration: none}
+
+#items{width:100%}
+.item {display: flex;
+       display: -webkit-flex;
+       width:100%;}
+
+.item-mark{position:relative;
+           width:25px;}
+.blog-title{position:relative;
+            width:200px;}
+
+.title{position:relative;
+       width:70%;}
+.date{position:relative;
+      width:10%;}
